@@ -1,4 +1,4 @@
-🛢️ Oil & Gas Data Analytics Dashboard (Streamlit + Scikit-learn)
+🛢️ Oil & Gas Data Analytics Dashboard (Streamlit + Scikit-learn + Snowflake)
 ----------------------------------------------------------------
 📌Overview
 ----------
